@@ -1,0 +1,14 @@
+1q.
+npm install react-router-dom
+
+----------------
+2q.
+npm install bootstrap
+
+
+import "bootstrap/dist/css/bootstrap.min.css";
+
+
+
+<div className="card p-4 shadow">
+===================
